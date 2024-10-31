@@ -1,9 +1,9 @@
 # ~~~~~~~~~
 # hugo 本身的配置
 # ~~~~~~~~~
-baseURL: "https://YH7916.github.io/" # 主站的 URL
+baseURL: "https://yh7916.github.io/" # 主站的 URL
 title: YH's Blog # 站点标题
-copyright: "[©2024 YH's Blog](https://YH7916.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2024 YH's Blog](https://yh7916.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
