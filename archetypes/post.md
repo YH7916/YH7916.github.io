@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
-author: ["田少晗"]
+author: ["李宇晗"]
 
 categories:
 - category 1
