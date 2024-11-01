@@ -75,37 +75,33 @@ params:
   # 首页的文章上方的一些信息
   homeInfoParams:
     # 首页的 profile 内容
-    Title: "Hey Guys 👋"
+    Title: "Hey ZJUers 👋"
     # 首页的 profile 内容
     Content: >
-      Welcome to my Blog! 这里主要记录了我的视频创作的一些补充说明材料。博客因为是托管在 Github 上面，以及，图床使用的是国外免费的 Postimages，所以，挂上一个梯子可能会让访问更加顺畅。
+      Welcome to my Blog! 
       <br>
-      也可以在其他地方访问我的文字材料，如下：
+      这里主要记录了我入学以来的所思所想、所言所行；
       <br>
-      <div>
-      ● [SonnyCalcr's Notion](https://www.notion.so/luflyan/b5ee8643e563498b96c6b7ab0f27343b)
+      既是一个资料仓库，也是一个心灵树洞。
       <br>
-      ● [博客园](https://www.cnblogs.com/fanlumaster)
-      <br>
-      ● My personal username of Discord is sonnycalcr, and, welcome to my [Discord Group/Server](https://discord.gg/HCebZMrfhE), maybe just to talk about some simple problems.
-      </div>
+      祝你在这里玩的愉快！
   # 社交帐号的按钮
   socialIcons:
     - name: github
       title: Follow my Github
-      url: "https://github.com/sonnycalcr"
+      url: "https://github.com/YH7916"
     - name: X
       title: Follow my Twitter
-      url: "https://x.com/sonnycalcr"
+      url: "https://x.com/lyhn21212"
     - name: Bilibili
       title: 关注我的 B 站帐号
-      url: "https://space.bilibili.com/3493138859559908"
+      url: "https://space.bilibili.com/1245921330"
     - name: Youtube
       title: Follow my Youtube Channel
-      url: "https://youtube.com/@sonnycalcr"
+      url: "https://www.youtube.com/channel/UCMs8nSIECerZQHMHI66Gc2Q"
     - name: Telegram
       title: Contact Me
-      url: "https://t.me/sonnycalcr"
+      url: "https://t.me/YH7916"
 
   # 搜索
   fuseOpts:
